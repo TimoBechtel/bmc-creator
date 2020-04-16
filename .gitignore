@@ -1,0 +1,10 @@
+/node_modules/
+/public/
+
+.DS_Store
+
+# Using zero-install
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
